@@ -1,0 +1,20 @@
+.footer {
+  background-color: rgb(80, 203, 234);
+}
+
+.footer-table {
+  display: flex;
+  justify-content: space-around;
+  padding-bottom: 25px;
+}
+.footer-main {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.footer1 {
+  list-style: none;
+}
+.footer1 li {
+  font-size: 20px;
+}
